@@ -38,6 +38,7 @@ ALT-F036,North Dakota,Fargo,900
 ALT-F037,South Dakota,Sioux Falls,800
 ALT-F038,Nebraska,Omaha,700
 ALT-F039,Kansas,Wichita,600
+ALT-F032,Nevada,Las Vegas,1300
 ALT-F040,Connecticut,Hartford,500
 ALT-F041,Rhode Island,Providence,400
 ALT-F042,Maine,Portland,300
@@ -68,6 +69,7 @@ ALT-F067,Michigan,Grand Rapids,4000
 ALT-F068,Maryland,Frederick,3000
 ALT-F069,Massachusetts,Worcester,2000
 ALT-F070,New Jersey,Jersey City,1900
+ALT-F091,Connecticut,Stamford,90
 ALT-F071,Washington,Spokane,1800
 ALT-F072,Oregon,Eugene,1700
 ALT-F073,Oklahoma,Tulsa,1600
@@ -76,6 +78,7 @@ ALT-F075,Alabama,Montgomery,1400
 ALT-F076,Minnesota,Rochester,1300
 ALT-F077,Wisconsin,Madison,1200
 ALT-F078,Iowa,Cedar Rapids,1100
+ALT-F055,Kentucky,Bowling Green,15000
 ALT-F079,Arkansas,Fort Smith,1000
 ALT-F080,Mississippi,Gulfport,900
 ALT-F081,New Mexico,Santa Fe,800
@@ -85,6 +88,7 @@ ALT-F084,Idaho,Nampa,500
 ALT-F085,Montana,Missoula,400
 ALT-F086,Wyoming,Gillette,300
 ALT-F087,North Dakota,Grand Forks,200
+ALT-F093,Maine,Bangor,70
 ALT-F088,South Dakota,Aberdeen,150
 ALT-F089,Nebraska,Lincoln,125
 ALT-F090,Kansas,Overland Park,100
@@ -98,3 +102,4 @@ ALT-F097,West Virginia,Huntington,30
 ALT-F098,South Carolina,Greenville,20
 ALT-F099,Hawaii,Pearl City,15
 ALT-F100,Alaska,Fairbanks,10
+ALT-F089,Nebraska,Lincoln,125
