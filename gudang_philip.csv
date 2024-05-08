@@ -5,7 +5,7 @@ PMI-W003,Jerman,Hamburg,18000
 PMI-W004,Italia,Napoli,15000
 PMI-W005,Spanyol,Barcelona,22000
 PMI-W006,Turki,Ankara,20000
-PMI-W007,Polandia,Warszawa,Seribu
+PMI-W007,Polandia,Warszawa,20000
 PMI-W008,Belanda,Amsterdam,16000
 PMI-W009,Swiss,Bern,14000
 PMI-W010,Rumania,Cluj-Napoca,13000
@@ -16,12 +16,12 @@ PMI-W014,Belgia,Antwerp,9000
 PMI-W015,Swedia,Gothenburg,16000
 PMI-W016,Austria,Graz,14000
 PMI-W017,Ukraina,Kharkiv,12000
-PMI-W018,Serbia,Novi Sad,Duaribu
+PMI-W018,Serbia,Novi Sad,12000
 PMI-W019,Kroasia,Split,9000
 PMI-W020,Slovenia,Maribor,8000
 PMI-W021,Bosnia dan Herzegovina,Banja Luka,7000
 PMI-W022,Montenegro,Niksic,6000
-PMI-W023,Republik Ceko,Brno,15000
+PMI-W023,Republik Ceko,Brno,
 PMI-W024,Slovakia,Kosice,12000
 PMI-W025,Denmark,Aarhus,14000
 PMI-W026,Finlandia,Tampere,11000
@@ -48,7 +48,7 @@ PMI-W046,Mozambik,Beira,8000
 PMI-W047,Kamerun,Douala,7000
 PMI-W048,Pantai Gading,Bouake,6000
 PMI-W049,Ghana,Kumasi,8000
-PMI-W050,Senegal,Touba,7000
+PMI-W050,Senegal,Touba,
 PMI-W051,Meksiko,Guadalajara,20000
 PMI-W052,Brazil,Rio de Janeiro,18000
 PMI-W053,Argentina,Cordoba,16000
@@ -60,9 +60,9 @@ PMI-W057,Venezuela,Valencia,9000
 PMI-W058,Ekuador,Guayaquil,8000
 PMI-W059,Uruguay,Paysandu,7000
 PMI-W060,Paraguay,Ciudad del Este,6000
-PMI-W061,Cina,Beijing,25000
+PMI-W061,,Beijing,25000
 PMI-W062,Jepang,Osaka,22000
-PMI-W063,Korea Selatan,Busan,20000
+PMI-W063,Korea Selatan,Busan,
 PMI-W064,Taiwan,Kaohsiung,18000
 PMI-W065,Malaysia,Johor Bahru,16000
 PMI-W066,Thailand,Chon Buri,14000
@@ -73,7 +73,7 @@ PMI-W070,Australia,Melbourne,18000
 PMI-W071,Selandia Baru,Wellington,12000
 PMI-W072,Kanada,Vancouver,16000
 PMI-W073,Amerika Serikat,Chicago,25000
-PMI-W074,Amerika Serikat,Atlanta,22000
+PMI-W074,Amerika Serikat,Atlanta,
 PMI-W075,Amerika Serikat,Dallas,20000
 PMI-W076,Amerika Serikat,Los Angeles,18000
 PMI-W077,Amerika Serikat,Miami,16000
@@ -90,16 +90,10 @@ PMI-W087,Amerika Serikat,Memphis,16000
 PMI-W067,Vietnam,Ho Chi Minh City,12000
 PMI-W068,Filipina,Cebu City,10000
 PMI-W069,Singapura,Jurong,9000
-PMI-W088,Amerika Serikat,Indianapolis,14000
+PMI-W088,Amerika Serikat,Indianapolis,
 PMI-W089,Amerika Serikat,Columbus,12000
-PMI-W090,Amerika Serikat,Charlotte,10000
-PMI-W091,Amerika Serikat,Detroit,9000
-PMI-W092,Amerika Serikat,Kansas City,8000
-PMI-W093,Amerika Serikat,Las Vegas,16000
-PMI-W094,Amerika Serikat,Jacksonville,14000
-PMI-W095,Amerika Serikat,Oklahoma City,12000
-PMI-W096,Amerika Serikat,Louisville,10000
+PMI-W096,,Louisville,10000
 PMI-W097,Amerika Serikat,Baltimore,9000
 PMI-W098,Amerika Serikat,Albuquerque,8000
-PMI-W099,Amerika Serikat,Tucson,7000
+PMI-W099,Amerika Serikat,Tucson,
 PMI-W100,Meksiko,Monterrey,20000
