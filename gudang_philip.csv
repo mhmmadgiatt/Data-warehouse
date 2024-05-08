@@ -5,7 +5,7 @@ PMI-W003,Jerman,Hamburg,18000
 PMI-W004,Italia,Napoli,15000
 PMI-W005,Spanyol,Barcelona,22000
 PMI-W006,Turki,Ankara,20000
-PMI-W007,Polandia,Warszawa,17000
+PMI-W007,Polandia,Warszawa,Seribu
 PMI-W008,Belanda,Amsterdam,16000
 PMI-W009,Swiss,Bern,14000
 PMI-W010,Rumania,Cluj-Napoca,13000
@@ -16,7 +16,7 @@ PMI-W014,Belgia,Antwerp,9000
 PMI-W015,Swedia,Gothenburg,16000
 PMI-W016,Austria,Graz,14000
 PMI-W017,Ukraina,Kharkiv,12000
-PMI-W018,Serbia,Novi Sad,10000
+PMI-W018,Serbia,Novi Sad,Duaribu
 PMI-W019,Kroasia,Split,9000
 PMI-W020,Slovenia,Maribor,8000
 PMI-W021,Bosnia dan Herzegovina,Banja Luka,7000
@@ -53,6 +53,7 @@ PMI-W051,Meksiko,Guadalajara,20000
 PMI-W052,Brazil,Rio de Janeiro,18000
 PMI-W053,Argentina,Cordoba,16000
 PMI-W054,Chili,Valparaiso,14000
+PMI-W017,Ukraina,Kharkiv,12000
 PMI-W055,Kolombia,Medellin,12000
 PMI-W056,Peru,Arequipa,10000
 PMI-W057,Venezuela,Valencia,9000
@@ -86,6 +87,9 @@ PMI-W084,Amerika Serikat,Phoenix,10000
 PMI-W085,Amerika Serikat,San Diego,9000
 PMI-W086,Amerika Serikat,Tampa,8000
 PMI-W087,Amerika Serikat,Memphis,16000
+PMI-W067,Vietnam,Ho Chi Minh City,12000
+PMI-W068,Filipina,Cebu City,10000
+PMI-W069,Singapura,Jurong,9000
 PMI-W088,Amerika Serikat,Indianapolis,14000
 PMI-W089,Amerika Serikat,Columbus,12000
 PMI-W090,Amerika Serikat,Charlotte,10000
