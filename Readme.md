@@ -52,4 +52,4 @@ dan Rata-rata di Pabrik
 Transaksi.
 
 #### Skema Star
-![Skema Data Warehouse](https://github.com/mhmmadgiatt/Data-warehouse/blob/main/Skema%20Star.jpg)
+![Skema Data Warehouse](https://github.com/mhmmadgiatt/Pembangunan-Data-warehouse-Merger-PMI-dan-Altria/blob/main/Skema%20Star.jpg)
